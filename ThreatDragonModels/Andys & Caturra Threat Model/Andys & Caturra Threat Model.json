@@ -1,0 +1,26 @@
+{
+  "version": "2.5.0",
+  "summary": {
+    "title": "Andys & Caturra Threat Model",
+    "owner": "LC Prasmo ",
+    "description": "The Andys & Caturra web application is a restaurant website designed to provide customers with access to restaurant information, menus, and updates. The system includes an administrator interface that allows authorized users to manage website content securely. The application communicates over the internet and stores data in a backend database.\n",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Data Flow Diagram",
+        "diagramType": "Generic",
+        "placeholder": "New generic diagram description",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "version": "2.5.0",
+        "cells": []
+      }
+    ],
+    "diagramTop": 2,
+    "reviewer": "Mr. Jerald T. Hallado",
+    "threatTop": 0
+  }
+}
